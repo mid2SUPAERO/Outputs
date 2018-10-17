@@ -12,7 +12,7 @@ You can find here recent slides from past talks
  
  [04/06/17 with DASSAULT](https://github.com/mid2SUPAERO/Outputs/blob/master/MDO_4-06-17_Dassault.pdf)
  
- [12/06/17 at 3AF BIG DATA](https://github.com/mid2SUPAERO/Outputs/blob/master/MDO_12-06-17_3AFBigData.pdf)
+ [Sparse and Distributed Gaussian process for Flight test and Structural dynamics 12/06/17 at 3AF BIG DATA](https://github.com/mid2SUPAERO/Outputs/blob/master/MDO_12-06-17_3AFBigData.pdf)
 
 
 
