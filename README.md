@@ -2,7 +2,7 @@
 
 You can find here recent slides from past talks
 
-Recent advances in Topology optimization (ALM) 15/10/18 [at ENSAM Bordeaux](https://github.com/mid2SUPAERO/Outputs/blob/master/MDO_15-10-18_CNES.pdf)
+Recent advances in Topology optimization (ALM) 23/11/18 [at ENSAM Bordeaux](https://github.com/mid2SUPAERO/Outputs/blob/master/Presentation_JMSC_FA.pdf)
 
 Recent advances in structural and multidisciplinary optimization (Surrogate Base optimization with Multifidelity) 15/10/18 [at CNES](https://github.com/mid2SUPAERO/Outputs/blob/master/MDO_15-10-18_CNES.pdf)
  
