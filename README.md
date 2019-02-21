@@ -5,7 +5,7 @@ You can find here recent slides from past talks
 A tiny introduction to MDO 21/2/19 [at ICA](https://github.com/mid2SUPAERO/Outputs/blob/master/Presentation_JM_MDO-compressed.pdf)
 
 
-Reproducible papers [at ICA](https://github.com/mid2SUPAERO/Outputs/blob/master/ReproduciblePapers-compressed.pdf)
+Reproducible papers 21/2/19 [at ICA](https://github.com/mid2SUPAERO/Outputs/blob/master/ReproduciblePapers-compressed.pdf)
 
 
 Recent advances in Topology optimization (ALM) 23/11/18 [at ENSAM Bordeaux](https://github.com/mid2SUPAERO/Outputs/blob/master/Presentation_JMSC_FA.pdf)
