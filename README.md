@@ -1,16 +1,5 @@
 # Outputs
 
-
-Here is some online "popularization" of my research:
-
-[on mdo](https://www.linkedin.com/pulse/optimization-mdo-connecting-people-joseph-morlier/)
-
-[on mdo, but in french](https://www.linkedin.com/pulse/loptimisation-multidisciplinaire-pour-connecter-les-humains-morlier/)
-
-[on topopt, but also in french](http://theconversation.com/construire-une-aile-davion-en-lego-cest-possible-87126)
-
-
-
 You can find here recent slides from past talks
 
 Small recipes on Surrogate modeling and Bayesian optimization 3/10/19 [at TU DELFTT](https://github.com/mid2SUPAERO/Outputs/blob/master/Recipes_DELFT-3-10-19-compressed.pdf)
@@ -35,6 +24,15 @@ framework for Aircraft Design 23/06/17 [at AIRBUS for CEDAR](https://github.com/
 Panorama on MDO + Optimal Sensor placement optimization 04/06/17 [with DASSAULT](https://github.com/mid2SUPAERO/Outputs/blob/master/MDO_4-06-17_Dassault.pdf)
  
 Sparse and Distributed Gaussian process for Flight test and Structural dynamics 12/06/17 [at 3AF BIG DATA](https://github.com/mid2SUPAERO/Outputs/blob/master/MDO_12-06-17_3AFBigData.pdf)
+
+
+Here is some online "popularization" articles:
+
+[on mdo](https://www.linkedin.com/pulse/optimization-mdo-connecting-people-joseph-morlier/)
+
+[on mdo, but in french](https://www.linkedin.com/pulse/loptimisation-multidisciplinaire-pour-connecter-les-humains-morlier/)
+
+[on topopt, but also in french](http://theconversation.com/construire-une-aile-davion-en-lego-cest-possible-87126)
 
 
 
