@@ -2,6 +2,8 @@
 
 You can find here recent slides from past talks
 
+How do we use in our Research activities at ONERA/SUPAERO and also in classrooms 21/11/19 [at Ohio Aerospace Institute](https://github.com/mid2SUPAERO/Outputs/blob/master/OpenMDAO_Cleveland_LIGHT2-compressed.pdf)
+
 Small recipes on Surrogate modeling and Bayesian optimization 3/10/19 [at TU DELFT](https://github.com/mid2SUPAERO/Outputs/blob/master/Recipes_DELFT-3-10-19-compressed.pdf)
 
 A tiny introduction to MDO 21/2/19 [at ICA](https://github.com/mid2SUPAERO/Outputs/blob/master/Presentation_JM_MDO-compressed.pdf)
