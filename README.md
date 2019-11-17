@@ -1,7 +1,7 @@
-# Outputs (past talks)
+# Outputs (SCIENTIFIC presentations)
 
 
-MDO in academia: From Classrooms to Research (and vice versa) 19/11/19 [at IRT SE](https://github.com/mid2SUPAERO/Outputs/blob/master/MDOinACADEMIA-compressed.pdf)
+MDO in academia: From Classrooms to Research (and vice versa) 19/11/19 [at 2nd European Workshop on MDO for Industrial Applications in Aeronautics IRT SE](https://github.com/mid2SUPAERO/Outputs/blob/master/MDOinACADEMIA-compressed.pdf)
 
 How do we use OpenMDAO in our Research activities at ONERA/SUPAERO (and also in classrooms)? 21/10/19 [at Ohio Aerospace Institute](https://github.com/mid2SUPAERO/Outputs/blob/master/OpenMDAO_Cleveland_LIGHT2-compressed.pdf)
 
@@ -15,7 +15,7 @@ Recent advances in Topology optimization (ALM) 23/11/18 [at ENSAM Bordeaux](http
 
 Recent advances in structural and multidisciplinary optimization (Surrogate Based Optimization with Multifidelity) 15/10/18 [at CNES](https://github.com/mid2SUPAERO/Outputs/blob/master/MDO_15-10-18_CNES.pdf)
  
-Recent advances in structural and multidisciplinary optimization 23/10/17 [at DLR](https://github.com/mid2SUPAERO/Outputs/blob/master/MDO_23-10-17_DLR.pdf)
+Recent advances in structural and multidisciplinary optimization 23/10/17 [at 1st European Workshop on MDO for Industrial Applications in Aeronautics DLR](https://github.com/mid2SUPAERO/Outputs/blob/master/MDO_23-10-17_DLR.pdf)
  
 Static and Dynamic Aeroelastic Scaling of the CRM Wing via Multidisciplinary Optimization 12/10/17 [at OpenMDAO workshop SUPAERO/ONERA](https://github.com/mid2SUPAERO/Outputs/blob/master/MDO_12-10_17_OpenMDAO.pdf)
  
@@ -30,11 +30,11 @@ Sparse and Distributed Gaussian process for Flight test and Structural dynamics 
 # Outputs (POPULARIZATION online articles)
 
 
-[on mdo](https://www.linkedin.com/pulse/optimization-mdo-connecting-people-joseph-morlier/)
+[Linkedin on mdo](https://www.linkedin.com/pulse/optimization-mdo-connecting-people-joseph-morlier/)
 
-[on mdo, but in french](https://www.linkedin.com/pulse/loptimisation-multidisciplinaire-pour-connecter-les-humains-morlier/)
+[Linkedin on mdo, but in french](https://www.linkedin.com/pulse/loptimisation-multidisciplinaire-pour-connecter-les-humains-morlier/)
 
-[on topopt, but also in french](http://theconversation.com/construire-une-aile-davion-en-lego-cest-possible-87126)
+[Theconversation on topopt, but also in french](http://theconversation.com/construire-une-aile-davion-en-lego-cest-possible-87126)
 
 
 
