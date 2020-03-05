@@ -7,6 +7,8 @@ How do we use OpenMDAO in our Research activities at ONERA/SUPAERO (and also in 
 
 Small recipes on Surrogate modeling and Bayesian optimization 3/10/19 [at TU DELFT](https://github.com/mid2SUPAERO/Outputs/blob/master/Recipes_DELFT-3-10-19-compressed.pdf)
 
+Small recipes on Flutter computation [Joan at SUPAERO](https://github.com/mid2SUPAERO/Outputs/blob/master/Flutter_ISAE_7_2019.pdf)
+
 A tiny introduction to MDO 21/2/19 [at ICA](https://github.com/mid2SUPAERO/Outputs/blob/master/Presentation_JM_MDO-compressed.pdf)
 
 Reproducible papers 21/2/19 [at ICA](https://github.com/mid2SUPAERO/Outputs/blob/master/ReproduciblePapers-compressed.pdf)
