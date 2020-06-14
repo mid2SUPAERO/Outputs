@@ -34,6 +34,8 @@ Sparse and Distributed Gaussian process for Flight test and Structural dynamics 
 
 [Linkedin on mdo](https://www.linkedin.com/pulse/optimization-mdo-connecting-people-joseph-morlier/)
 
+[Linkedin on topopt](https://www.linkedin.com/pulse/possible-build-aircraft-wing-lego-joseph-morlier/)
+
 [Linkedin on mdo, but in french](https://www.linkedin.com/pulse/loptimisation-multidisciplinaire-pour-connecter-les-humains-morlier/)
 
 [Theconversation on topopt, but also in french](http://theconversation.com/construire-une-aile-davion-en-lego-cest-possible-87126)
