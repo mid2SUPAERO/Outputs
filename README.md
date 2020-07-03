@@ -1,6 +1,8 @@
 # Outputs (SCIENTIFIC presentations)
 
 
+Multidisciplinary Design Optimization of a HALE drone regarding environmental impact 19/11/19 [AEC 2020 Bordeaux](https://github.com/mid2SUPAERO/Outputs/blob/master/AEC2020_duriez_compressed.pdf)
+
 MDO in academia: From Classrooms to Research (and vice versa) 19/11/19 [at 2nd European Workshop on MDO for Industrial Applications in Aeronautics IRT SE](https://github.com/mid2SUPAERO/Outputs/blob/master/MDOinACADEMIA-compressed.pdf)
 
 How do we use OpenMDAO in our Research activities at ONERA/SUPAERO (and also in classrooms)? 21/10/19 [at Ohio Aerospace Institute](https://github.com/mid2SUPAERO/Outputs/blob/master/OpenMDAO_Cleveland_LIGHT2-compressed.pdf)
