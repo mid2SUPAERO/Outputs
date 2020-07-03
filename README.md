@@ -1,7 +1,7 @@
 # Outputs (SCIENTIFIC presentations)
 
 
-Multidisciplinary Design Optimization of a HALE drone regarding environmental impact 19/11/19 [AEC 2020 Bordeaux](https://github.com/mid2SUPAERO/Outputs/blob/master/AEC2020_duriez_compressed.pdf)
+Multidisciplinary Design Optimization of a HALE drone regarding environmental impact 19/11/19 [1st Edition of the Aerospace Europe Conference – AEC2020. "Greener Aerospace Innovative Technologies and Operations for a human friendly environment](https://github.com/mid2SUPAERO/Outputs/blob/master/AEC2020_duriez_compressed.pdf)
 
 MDO in academia: From Classrooms to Research (and vice versa) 19/11/19 [at 2nd European Workshop on MDO for Industrial Applications in Aeronautics IRT SE](https://github.com/mid2SUPAERO/Outputs/blob/master/MDOinACADEMIA-compressed.pdf)
 
