@@ -1,6 +1,6 @@
 # Outputs (SCIENTIFIC presentations)
 
-SMT History and current developments 27/5/21 by J.Morlier [Sigma Clermont Feerrand](https://github.com/mid2SUPAERO/Outputs/blob/master/AEC2020_duriez_compressed.pdf)
+SMT History and current developments 27/5/21 by J.Morlier [Sigma Clermont Ferrand](https://github.com/mid2SUPAERO/Outputs/blob/master/SMT_JM.pdf)
 
 Multidisciplinary Design Optimization of a HALE drone regarding environmental impact 27/2/20 by E. Duriez (PhD) [Aerospace Europe Conference – AEC2020. "Greener Aerospace Innovative Technologies and Operations for a human friendly environment"](https://github.com/mid2SUPAERO/Outputs/blob/master/AEC2020_duriez_compressed.pdf)
 
