@@ -1,7 +1,7 @@
 # Outputs (SCIENTIFIC presentations)
 
 
-Can we design a lego {aero}structure ? can we ecoptimize it ? can we print it? [ICA and zoom](https://github.com/mid2SUPAERO/Outputs/blob/master/SMT_JM.pdf)
+Can we design a lego {aero}structure ? can we ecoptimize it ? can we print it? [ICA and zoom](https://github.com/mid2SUPAERO/Outputs/blob/master/TOPGGP_light-compressed.pdf)
 
 SMT History and current developments 27/5/21 by J.Morlier [Sigma Clermont Ferrand](https://github.com/mid2SUPAERO/Outputs/blob/master/SMT_JM.pdf)
 
