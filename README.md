@@ -1,6 +1,6 @@
 # Outputs (SCIENTIFIC presentations)
 
-Invited presentations:
+## Invited presentations:
 
 Design for Additive Manufacturing: Topology Optimization at  MDO_ML 2021 “International Virtual Course on Multidisciplinary Optimization and Machine Learning for Engineering Design” (MDOML-2021)
 
@@ -8,15 +8,13 @@ MDO in academia: From Classrooms to Research (and vice versa) 19/11/19 [at 2nd E
 
 Recent advances in structural and multidisciplinary optimization (Surrogate Based Optimization with Multifidelity) 15/10/18 [at CNES](https://github.com/mid2SUPAERO/Outputs/blob/master/MDO_15-10-18_CNES.pdf)
 
-Recent talks
+## Recent talks
 
 Can we design a lego {aero}structure ? can we ecoptimize it ? can we print it? [ICA and zoom](https://github.com/mid2SUPAERO/Outputs/blob/master/TOPGGP_light-compressed.pdf)
 
 SMT History and current developments 27/5/21 by J.Morlier [Sigma Clermont Ferrand](https://github.com/mid2SUPAERO/Outputs/blob/master/SMT_JM.pdf)
 
 Multidisciplinary Design Optimization of a HALE drone regarding environmental impact 27/2/20 by E. Duriez (PhD) [Aerospace Europe Conference – AEC2020. "Greener Aerospace Innovative Technologies and Operations for a human friendly environment"](https://github.com/mid2SUPAERO/Outputs/blob/master/AEC2020_duriez_compressed.pdf)
-
-
 
 How do we use OpenMDAO in our Research activities at ONERA/SUPAERO (and also in classrooms)? 21/10/19 [at Ohio Aerospace Institute](https://github.com/mid2SUPAERO/Outputs/blob/master/OpenMDAO_Cleveland_LIGHT2-compressed.pdf)
 
