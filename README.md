@@ -2,7 +2,9 @@
 
 ## Invited presentations:
 
-Design for Additive Manufacturing: Topology Optimization at  MDO_ML 2021 “International Virtual Course on Multidisciplinary Optimization and Machine Learning for Engineering Design”  July 2021 [(MDOML-2021)](https://github.com/jomorlier/mdo_ml_21)
+Recent progress in engineering design with MDO/AI, Keynote lecture at [Pseven users conference],  october 2022 (https://github.com/mid2SUPAERO/Outputs/blob/master/pseven-compressed.pdf)
+
+Design for Additive Manufacturing: Topology Optimization at  MDO_ML 2021 International Virtual Course on Multidisciplinary Optimization and Machine Learning for Engineering Design,  July 2021 [(MDOML-2021)](https://github.com/jomorlier/mdo_ml_21)
 
 MDO in academia: From Classrooms to Research (and vice versa) 19/11/19 [at 2nd European Workshop on MDO for Industrial Applications in Aeronautics IRT SE](https://github.com/mid2SUPAERO/Outputs/blob/master/MDOinACADEMIA-compressed.pdf)
 
