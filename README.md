@@ -12,6 +12,12 @@ Recent advances in structural and multidisciplinary optimization (Surrogate Base
 
 ## Recent talks
 
+Can we formulate EDfAM as an MDO problem ? [MDOlab](https://github.com/mid2SUPAERO/ECODD/blob/main/MDOlab.pdf) June 2022
+
+A 3-ingredient recipe for Accelerating Aerospace Engineering Design: MDO, Surrogate and Ecodesign [TU Delft AE](https://github.com/mid2SUPAERO/ECODD/blob/main/AE.pdf) May 2022
+
+On some recent developments in topology optimization of aerostructures {Stiffer, Lighter, Greener} [TU Delft 3ME](https://github.com/mid2SUPAERO/ECODD/blob/main/3ME.pdf) May 2022
+
 Can we design a lego {aero}structure ? can we ecoptimize it ? can we print it? [ICA and zoom](https://github.com/mid2SUPAERO/Outputs/blob/master/TOPGGP_light-compressed.pdf) October 2021
 
 SMT History and current developments 27/5/21 by J.Morlier [Sigma Clermont Ferrand](https://github.com/mid2SUPAERO/Outputs/blob/master/SMT_JM.pdf)
