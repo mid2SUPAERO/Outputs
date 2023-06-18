@@ -2,6 +2,8 @@
 
 ## Invited presentations:
 
+A fast method of material, design and process eco-selection via topology optimization for AM structures, Keynote lecture at Pseven users conference, June 2023 [ADDL](https://github.com/mid2SUPAERO/Outputs/blob/master/ADDL-compressed.pdf)
+
 Recent progress in engineering design with MDO/AI, Keynote lecture at Pseven users conference, october 2022 [Pseven](https://github.com/mid2SUPAERO/Outputs/blob/master/pseven-compressed.pdf)
 
 Design for Additive Manufacturing: Topology Optimization at  MDO_ML 2021 International Virtual Course on Multidisciplinary Optimization and Machine Learning for Engineering Design,  July 2021 [(MDOML-2021)](https://github.com/jomorlier/mdo_ml_21)
