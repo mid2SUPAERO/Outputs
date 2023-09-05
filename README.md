@@ -14,6 +14,9 @@ Recent advances in structural and multidisciplinary optimization (Surrogate Base
 
 ## Recent talks
 
+
+Integration of life cycle assessment methodology as an environment discipline module in multidisciplinary analysis and optimization framework [Aerobest](https://github.com/mid2SUPAERO/LCA4MDAO/blob/master/Aerobest%20LCA4MDAO_JO-compressed.pdf)) December 2022, Thanks Thomas!
+
 CO2 Footprint Minimisation for Additive Manufactured Bio-composite thin Structures [AddFabComp](https://github.com/mid2SUPAERO/Outputs/blob/master/CO2FOOTPRINTMIN.pdf) December 2022, Thanks Alex!
 
 Can we formulate EDfAM as an MDO problem ? [MDOlab](https://github.com/mid2SUPAERO/ECODD/blob/main/MDOlab.pdf) June 2022
