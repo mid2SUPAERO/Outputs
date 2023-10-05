@@ -2,6 +2,10 @@
 
 ## Invited presentations:
 
+Adding more disciplines in the MDO of HAR Aeroelastic Wing Design
+
+https://cassyni.com/s/ar20plus
+
 A fast method of material, design and process eco-selection via topology optimization for AM structures,ADDL conference @ENSAM Bordeaux, June 2023 [ADDL](https://github.com/mid2SUPAERO/Outputs/blob/master/ADDL2-compressed.pdf)
 
 Recent progress in engineering design with MDO/AI, Keynote lecture at Pseven users conference, october 2022 [Pseven](https://github.com/mid2SUPAERO/Outputs/blob/master/pseven-compressed.pdf)
