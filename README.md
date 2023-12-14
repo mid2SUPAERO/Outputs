@@ -16,7 +16,7 @@ Recent advances in structural and multidisciplinary optimization (Surrogate Base
 
 ## Recent talks
 
-A quick introduction to SMT [Aerobest](https://github.com/mid2SUPAERO/Outputs/blob/master/SMT_FONISEN-compressed.pdf) decembre 2023, FONISEN Seminar & INRIA Rennes
+A quick introduction to SMT [INRIA](https://github.com/mid2SUPAERO/Outputs/blob/master/SMT_FONISEN-compressed.pdf) decembre 2023, FONISEN Seminar & INRIA Rennes
 
 Integration of life cycle assessment methodology as an environment discipline module in multidisciplinary analysis and optimization framework [Aerobest](https://github.com/mid2SUPAERO/LCA4MDAO/blob/master/Aerobest%20LCA4MDAO_JO-compressed.pdf) July 2023, Thanks Thomas!
 
