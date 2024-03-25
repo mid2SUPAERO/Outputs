@@ -16,6 +16,9 @@ Recent advances in structural and multidisciplinary optimization (Surrogate Base
 
 ## Recent talks
 
+
+How to achieve optimal design of sustainable aerostructures? [ONERAA](https://github.com/mid2SUPAERO/Outputs/blob/master/AMS2-compressed.pdf) march 2024, DMAS Seminar Paris
+
 A quick introduction to SMT 2.0 [INRIA](https://github.com/mid2SUPAERO/Outputs/blob/master/SMT_FONISEN-compressed.pdf) decembre 2023, FONISEN Seminar & INRIA Rennes
 
 Integration of life cycle assessment methodology as an environment discipline module in multidisciplinary analysis and optimization framework [Aerobest](https://github.com/mid2SUPAERO/LCA4MDAO/blob/master/Aerobest%20LCA4MDAO_JO-compressed.pdf) July 2023, Thanks Thomas!
