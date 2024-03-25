@@ -17,7 +17,7 @@ Recent advances in structural and multidisciplinary optimization (Surrogate Base
 ## Recent talks
 
 
-How to achieve optimal design of sustainable aerostructures? [ONERAA](https://github.com/mid2SUPAERO/Outputs/blob/master/AMS2-compressed.pdf) march 2024, DMAS Seminar Paris
+How to achieve optimal design of sustainable aerostructures? [ONERA Chatillon](https://github.com/mid2SUPAERO/Outputs/blob/master/AMS2-compressed.pdf) march 2024, DMAS Seminar Paris
 
 A quick introduction to SMT 2.0 [INRIA](https://github.com/mid2SUPAERO/Outputs/blob/master/SMT_FONISEN-compressed.pdf) decembre 2023, FONISEN Seminar & INRIA Rennes
 
