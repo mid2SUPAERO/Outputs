@@ -16,6 +16,7 @@ Recent advances in structural and multidisciplinary optimization (Surrogate Base
 
 ## Recent talks
 
+On some topology optimization recipes {Stiffer, Lighter, Greener} [ESAFORM 2024 PreConference course](https://github.com/mid2SUPAERO/Outputs/blob/master/ESAFORM_JM-compressé.pdf) 23th of April 2024, MFJA Toulouse
 
 How to achieve optimal design of sustainable aerostructures? [ONERA Chatillon](https://github.com/mid2SUPAERO/Outputs/blob/master/AMS2-compressed.pdf) march 2024, DMAS Seminar Paris
 
