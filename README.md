@@ -1,4 +1,3 @@
-<img width="853" alt="image" src="https://github.com/mid2SUPAERO/Outputs/assets/11868302/07448d2a-4154-470f-b19c-21c95e43791a"><img width="853" alt="image" src="https://github.com/mid2SUPAERO/Outputs/assets/11868302/9e1dc04f-18c3-4389-8578-aae8edd9123a"># Outputs (SCIENTIFIC presentations)
 
 ## Invited presentations:
 
