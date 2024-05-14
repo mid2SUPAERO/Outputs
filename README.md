@@ -1,4 +1,4 @@
-# Outputs (SCIENTIFIC presentations)
+<img width="853" alt="image" src="https://github.com/mid2SUPAERO/Outputs/assets/11868302/07448d2a-4154-470f-b19c-21c95e43791a"><img width="853" alt="image" src="https://github.com/mid2SUPAERO/Outputs/assets/11868302/9e1dc04f-18c3-4389-8578-aae8edd9123a"># Outputs (SCIENTIFIC presentations)
 
 ## Invited presentations:
 
@@ -15,6 +15,8 @@ MDO in academia: From Classrooms to Research (and vice versa) 19/11/19 [at 2nd E
 Recent advances in structural and multidisciplinary optimization (Surrogate Based Optimization with Multifidelity) 15/10/18 [at CNES](https://github.com/mid2SUPAERO/Outputs/blob/master/MDO_15-10-18_CNES.pdf)
 
 ## Recent talks
+
+How to check local buckling in multiscale topology optimization ? [CSMA2024](https://github.com/mid2SUPAERO/Outputs/blob/master/CSMA2024_JM.pdf) 14th of May 2024, Giens
 
 On some topology optimization recipes {Stiffer, Lighter, Greener} [ESAFORM 2024 PreConference course](https://github.com/mid2SUPAERO/Outputs/blob/master/ESAFORM_JM.pdf) 23th of April 2024, MFJA Toulouse
 
