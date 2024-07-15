@@ -15,6 +15,8 @@ Recent advances in structural and multidisciplinary optimization (Surrogate Base
 
 ## Recent talks
 
+Sustainable aviation methods and tools, An overview perspective, ITB @Bandung, July 2024 [ITB](https://github.com/mid2SUPAERO/Outputs/blob/master/ITB2light-compressed.pdf)
+
 Latest advancements in engineering optimization technology and its applications in supporting eco-friendly initiatives, ITB @Bandung, July 2024 [ITB](https://github.com/mid2SUPAERO/Outputs/blob/master/ITB1.pdf)
 
 How to check local buckling in multiscale topology optimization ? [CSMA2024](https://github.com/mid2SUPAERO/Outputs/blob/master/CSMA2024_JM.pdf) 14th of May 2024, Giens
