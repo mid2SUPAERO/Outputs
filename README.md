@@ -1,6 +1,8 @@
 
 ## Invited presentations:
 
+Sustainable aviation methods and tools, An overview perspective, ITB @Bandung, July 2024 [ITB](https://github.com/mid2SUPAERO/Outputs/blob/master/ITB2light-compressed.pdf)
+
 Adding more disciplines in the MDO of HAR Aeroelastic Wing Design, AR+20 workshop @imperialcollege London, October 2023 [AR+20](https://github.com/mid2SUPAERO/Outputs/blob/master/HAR_JM2-compressed.pdf)
 
 A fast method of material, design and process eco-selection via topology optimization for AM structures,ADDL conference @ENSAM Bordeaux, June 2023 [ADDL](https://github.com/mid2SUPAERO/Outputs/blob/master/ADDL2-compressed.pdf)
@@ -15,7 +17,7 @@ Recent advances in structural and multidisciplinary optimization (Surrogate Base
 
 ## Recent talks
 
-Sustainable aviation methods and tools, An overview perspective, ITB @Bandung, July 2024 [ITB](https://github.com/mid2SUPAERO/Outputs/blob/master/ITB2light-compressed.pdf)
+
 
 Latest advancements in engineering optimization technology and its applications in supporting eco-friendly initiatives, ITB @Bandung, July 2024 [ITB](https://github.com/mid2SUPAERO/Outputs/blob/master/ITB1.pdf)
 
