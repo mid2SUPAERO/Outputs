@@ -17,7 +17,9 @@ Recent advances in structural and multidisciplinary optimization (Surrogate Base
 
 ## Recent talks
 
+SMT-Kernels ? IST lisbon, April 2025 [Aerobest](https://github.com/mid2SUPAERO/Outputs/blob/master/Aerobest_materialbasedAD.pdf)
 
+A material based approach for Aicraft Design ? IST lisbon, April 2025 [Aerobest](https://github.com/mid2SUPAERO/Outputs/blob/master/Aerobest_materialbasedAD.pdf)
 
 Latest advancements in engineering optimization technology and its applications in supporting eco-friendly initiatives, ITB @Bandung, July 2024 [ITB](https://github.com/mid2SUPAERO/Outputs/blob/master/ITB1.pdf)
 
