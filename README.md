@@ -17,6 +17,8 @@ Recent advances in structural and multidisciplinary optimization (Surrogate Base
 
 ## Recent talks
 
+On the use of VAE for ecomaterial selection with applications in structural and aircraft design optimization,IOP longon, PEML25 conference, October 2025 [Aerobest](https://github.com/mid2SUPAERO/Outputs/blob/master/Aerobest_SMTK-compressed.pdf)
+
 SMT-Kernels ? IST lisbon, April 2025 [Aerobest](https://github.com/mid2SUPAERO/Outputs/blob/master/Aerobest_SMTK-compressed.pdf)
 
 A material based approach for Aicraft Design ? IST lisbon, April 2025 [Aerobest](https://github.com/mid2SUPAERO/Outputs/blob/master/Aerobest_materialbasedAD.pdf)
