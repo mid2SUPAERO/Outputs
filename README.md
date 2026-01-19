@@ -1,6 +1,9 @@
 
 ## Invited presentations:
 
+
+Embedding Sustainability in Design Optimization:  Which Mathematical Recipes?, SPOT December 2026 [N7](https://github.com/mid2SUPAERO/Outputs/blob/master/SPOT-compressed.pdf)
+
 Embedding Sustainability in Design Optimization:  Which Mathematical Recipes?, RICAM, October 2025 [RICAM](https://github.com/mid2SUPAERO/Outputs/blob/master/RICAM2-compressed.pdf)
 
 Sustainable aviation methods and tools, An overview perspective, ITB @Bandung, July 2024 [ITB](https://github.com/mid2SUPAERO/Outputs/blob/master/ITB2light-compressed.pdf)
