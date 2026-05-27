@@ -22,6 +22,8 @@ Recent advances in structural and multidisciplinary optimization (Surrogate Base
 
 ## Recent talks
 
+Efficient multidisciplinary design via Bayesian Optimization (BO), CSMA, Mai 2026 [CSMA26](https://github.com/mid2SUPAERO/Outputs/blob/master/CSMA_SEGO-compressed.pdf)
+
 On the use of VAE for ecomaterial selection with applications in structural and aircraft design optimization,IOP london, October 2025 [PEML25](https://github.com/mid2SUPAERO/Outputs/blob/master/PEML_MORLIER-compressed.pdf)
 
 SMT-Kernels ? IST lisbon, April 2025 [Aerobest](https://github.com/mid2SUPAERO/Outputs/blob/master/Aerobest_SMTK-compressed.pdf)
