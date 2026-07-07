@@ -1,6 +1,7 @@
 
 ## Invited presentations:
 
+Shaping Advanced Optimization for Sustainable Aerospace Design, IFAMO June 2026 [N7](https://github.com/mid2SUPAERO/Outputs/blob/master/IFAMOlight2.pdf)
 
 Embedding Sustainability in Design Optimization:  Which Mathematical Recipes?, SPOT December 2026 [N7](https://github.com/mid2SUPAERO/Outputs/blob/master/SPOT-compressed.pdf)
 
